@@ -1,0 +1,11 @@
+committee:
+https://mumbai.polygonscan.com/address/0xe93967ae53a14fa46953b629c2b7347b20451330#writeProxyContract
+
+Public
+https://mumbai.polygonscan.com/address/0x6a074efcfb1cc3f87fd8065d51b9a1c5296a1be1#readProxyContract
+
+token: 
+0xc4C06e11D336871dE726Ead93aa7FF720Fa362f7
+
+graph 
+https://api.thegraph.com/subgraphs/name/saifdevblochain/xenoversead
